@@ -1,7 +1,7 @@
 # YuJiang_tool
 ## 制作up主,作业大战御酱,风格的视频工具
 
-把```ffmpeg-python```搓了搓做了一个模仿[作业大战御酱](https://space.bilibili.com/351067)风格视频的小工具
+把```ffmpeg-python```搓了搓做了一个模仿[作业大战御酱](https://space.bilibili.com/351067)风格视频的小工具。太久没有更新了，自己搓一些视频出来过过瘾。
 
 思路是先把音乐拼接在一起，然后再根据音乐的时长把图包制作成视频
 
